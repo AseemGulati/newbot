@@ -5,7 +5,7 @@
 
 A conversational chatbot built using **Google's Gemini 1.5 Flash** model and deployed using **Streamlit**. This chatbot retains chat history during a session and can be used for general Q&A or AI-powered assistance.
 
----
+----
 
 ## 🚀 Features
 
